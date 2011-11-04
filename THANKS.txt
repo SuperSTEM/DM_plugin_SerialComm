@@ -1,0 +1,6 @@
+This plugin was based on the SimpleImageProcessingPlugIn project by Dave Mitchell and Douglas Hague (http://www.felmi-zfe.tugraz.at/dm_scripts/dm_scripts/AddInfo/compileCPP/index2.html).
+
+Both Bernhard Schaffer and Paul Thomas were essential in helping me get this running.
+
+Thank you to all of you.
+MCS, April 2011.
